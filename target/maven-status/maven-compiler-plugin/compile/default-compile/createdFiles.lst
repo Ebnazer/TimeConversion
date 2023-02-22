@@ -1,0 +1,5 @@
+Controller\ConversionController.class
+Constants\Definitions.class
+in\sample\tomeconversion\JAXRSConfiguration.class
+in\sample\tomeconversion\resources\JavaEE8Resource.class
+Service\ConversionService.class
